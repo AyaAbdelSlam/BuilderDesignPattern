@@ -1,0 +1,11 @@
+C:\Users\ahemaid\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.csprojAssemblyReference.cache
+C:\Users\ahemaid\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ahemaid\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.AssemblyInfo.cs
+C:\Users\ahemaid\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.exe
+C:\Users\ahemaid\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.deps.json
+C:\Users\ahemaid\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.runtimeconfig.json
+C:\Users\ahemaid\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.runtimeconfig.dev.json
+C:\Users\ahemaid\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.dll
+C:\Users\ahemaid\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.pdb
+C:\Users\ahemaid\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.dll
+C:\Users\ahemaid\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.pdb
